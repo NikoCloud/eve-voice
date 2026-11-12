@@ -1,0 +1,8 @@
+{
+  "hosts": {
+    "cachyos": "203.0.113.10"
+  },
+  "allowed_hosts": [
+    "your-machine.your-tailnet.ts.net"
+  ]
+}

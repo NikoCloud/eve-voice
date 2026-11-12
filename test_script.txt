@@ -1,0 +1,5 @@
+How much free space do I have on my Windows drives?
+What's the biggest folder in /mnt/models on cachyos?
+Ask Frank to check which Python version is installed on this Windows machine.
+#wait 3
+Is Frank busy right now?

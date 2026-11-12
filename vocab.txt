@@ -1,0 +1,18 @@
+# Words Whisper tends to get wrong, fixed before Eve sees them.
+# One rule per line:  heard form(s) separated by | -> correct form
+# Matching ignores case and only replaces whole words.
+
+cachy os | cachy-os | catchy os | cathy os | cashy os | kachi os -> CachyOS
+lfm 3 | lfm three | l f m 3 | lf3 | elf m3 -> LFM3
+e 4 b | e4 b | e for b -> E4B
+qwen | quen | quinn | kwen -> Qwen
+hermes agent | herm ease -> Hermes
+rock m | rock em | rocm -> ROCm
+v l l m | vllm | v llm -> vLLM
+llama cpp | llama c p p | lama cpp -> llama.cpp
+rdna four | rdna 4 | r d n a 4 -> RDNA4
+ming three | ming 3 -> Ming 3
+comfy ui | comfy you i -> ComfyUI
+silly tavern -> SillyTavern
+tail scale | tailscale -> Tailscale
+whisper flow -> Wispr Flow
